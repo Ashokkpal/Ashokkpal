@@ -77,7 +77,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashok%20Pal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashokpal2094) 
 [![GitHub](https://img.shields.io/badge/GitHub-Ashokkpal-black?style=flat&logo=github)](https://github.com/Ashokkpal) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-orange?style=flat&logo=google-chrome)](https://ashokkpal.github.io/)  
-📧 **Email:** [@ashok_(ashokpal2094@gmail.com)]  
+📧 **Email:** [@ashok]_(ashokpal2094@gmail.com)
 
 ---
 
