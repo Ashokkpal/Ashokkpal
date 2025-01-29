@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-Ashok%20Pal-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61570283193813)  
 [![Instagram](https://img.shields.io/badge/Instagram-its_ashookk-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/its_ashookk/)  
 [![Telegram](https://img.shields.io/badge/Telegram-ashokpal2-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/ashokpal2)  
-Email[![Gmail](https://img.shields.io/badge/Email-ashokpal2094-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ashokpal2094@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Email-ashokpal2094-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ashokpal2094@gmail.com)  
 
 
 
