@@ -72,8 +72,10 @@ Aspiring Software Engineer | Proficient in C, Java, Python | Skilled in Data Ana
 ---
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-blueviolet?style=flat&logo=hacktoberfest)
 ![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=flat&logo=opensourceinitiative)
-![GitHub Issues](https://img.shields.io/github/issues/Ashokkpal?style=flat&logo=github)
-![Pull Requests](https://img.shields.io/github/issues-pr/Ashokkpal?style=flat&logo=git)
+![GitHub Issues](https://img.shields.io/github/issues/Ashokkpal/REPO_NAME?style=flat&logo=github)
+![Pull Requests](https://img.shields.io/github/issues-pr/Ashokkpal/REPO_NAME?style=flat&logo=github)
+
+
 
 ---
 
