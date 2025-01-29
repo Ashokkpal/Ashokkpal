@@ -63,7 +63,11 @@ Aspiring Software Engineer | Proficient in C, Java, Python | Skilled in Data Ana
 ## 📜 Certifications
 
 - **Google Cybersecurity Fundamentals** – Coursera  
-- **Machine Learning Specialization** – Coursera  
+- **Machine Learning Specialization** – Coursera
+- **Basics of Linux Operating** – VOIS
+- **AI/ML for Geodata Analysis** – ISRO (Indian Space Research Organization)
+- **Programming using Java** – Infosys Springboard
+- **Programming Using Python** – Udemy  
 
 ---
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-blueviolet?style=flat&logo=hacktoberfest)
