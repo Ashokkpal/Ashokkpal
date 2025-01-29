@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Ashok Pal!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashok%20Pal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashokpal2094)  
-[![GitHub](https://img.shields.io/badge/GitHub-Ashokkpal-black?style=flat&logo=github)](https://github.com/Ashokkpal)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-orange?style=flat&logo=google-chrome)](https://ashokkpal.github.io/)  
-[![Facebook](https://img.shields.io/badge/Facebook-Ashok%20Pal-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61570283193813)  
-[![Instagram](https://img.shields.io/badge/Instagram-its_ashookk-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/its_ashookk/)  
-[![Telegram](https://img.shields.io/badge/Telegram-ashokpal2-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/ashokpal2)  
-[![Gmail](https://img.shields.io/badge/Email-ashokpal2094-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ashokpal2094@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashok%20Pal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashokpal2094) 
+[![GitHub](https://img.shields.io/badge/GitHub-Ashokkpal-black?style=flat&logo=github)](https://github.com/Ashokkpal) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-orange?style=flat&logo=google-chrome)](https://ashokkpal.github.io/) 
+[![Facebook](https://img.shields.io/badge/Facebook-Ashok%20Pal-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61570283193813) 
+[![Instagram](https://img.shields.io/badge/Instagram-its_ashookk-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/its_ashookk/) 
+[![Telegram](https://img.shields.io/badge/Telegram-ashokpal2-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/ashokpal2) 
+[![Gmail](https://img.shields.io/badge/Email-ashokpal2094-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ashokpal2094@gmail.com)
+
 
 
 
