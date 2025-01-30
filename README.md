@@ -57,6 +57,9 @@ Aspiring Software Engineer | Proficient in C, Java, Python | Skilled in Data Ana
 ### 🐾 [WildGuard](https://github.com/Ashokkpal/WildGuard)
 🔹 Contributed to an open-source project focused on **wildlife monitoring and protection**.  
 🔹 Improved functionality and resolved issues during Hacktoberfest 2024.  
+### 🐾 [CALCULATOR](https://github.com/Ashokkpal/CALCULATOR)
+🔹 Contributed to an open-source project focused on **Some real world problem(basic arithmetic operations) solving**.  
+🔹 Improved my skills, projects, and achievements.  
 
 ---
 
